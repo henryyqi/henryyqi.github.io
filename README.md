@@ -15,7 +15,7 @@
     Did Peter Piper pick?
    </pre>
   
-  <p>This is my <b>favorite</b> <a href="https://www.youtube.com/watch?        v=j1hft9Wjq9U&ab_channel=THEFIRSTTAKE">song</a></p>
+  <p>This is my <b>favorite</b> <a href="https://www.youtube.com/watch?v=j1hft9Wjq9U&ab_channel=THEFIRSTTAKE"> song </a></p>
 <hr>
 <a href="https://avatar.fandom.com/wiki/Sokka"><img src="sokka.jpg"></a>
 
