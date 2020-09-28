@@ -8,6 +8,7 @@
 <a href="https://www.youtube.com/watch?v=j1hft9Wjq9U&ab_channel=THEFIRSTTAKE">song</a>
 </p>
 
+<img src="sokka.jpg" width="104" height="142">
 
 
 
