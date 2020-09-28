@@ -1,8 +1,8 @@
-### WELCOME
 
 <html>
+
+<h1 style="font-size:900%; text-align:center;">WELCOME</h1>
 <hr>
-<h1 style="font-size:150%; text-align:center;">Hello World</h1>
   <p>My name is Henry Qi. <br>This is my website.</p>
   
   <pre>
