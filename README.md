@@ -2,7 +2,7 @@
 
 <html>
 <hr>
-<h1 style="font-size:90px;">Hello World</h1>
+<h1 style="font-size:150%; text-align:center;">Hello World</h1>
   <p>My name is Henry Qi. <br>This is my website.</p>
   
   <pre>
