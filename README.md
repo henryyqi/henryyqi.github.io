@@ -1,12 +1,9 @@
 
 ### WELCOME
 
-title: WELCOME
-
-
 <html>
 <body>
 <h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<p>My name is Henry Qi. This is my website.</p>
 </body>
 </html>
