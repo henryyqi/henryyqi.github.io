@@ -1,7 +1,7 @@
 
 <html>
 
-<h1 style="font-size:900%; text-align:center;">WELCOME</h1>
+<h1 style="font-size:500%; text-align:center;">WELCOME</h1>
 <hr>
   <p>My name is Henry Qi. <br>This is my website.</p>
   
