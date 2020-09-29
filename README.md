@@ -17,7 +17,7 @@ p {
   
 <!-- short intro -->
 <p>
-  My name is Henry Qi. This is my website.<br>
+  My name is Henry Qi. This is my website.<br><br>
   I am a mechanical engineering student dipping my feet into HTML in an attempt to build my own website. I'm excited to see the variety of different setups and paths I can take using HTML.
   
 </p>
