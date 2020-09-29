@@ -4,7 +4,7 @@
 <head>
 <style>
 p {
-  border: 5px solid powderblue;
+  border: 5px solid silver;
   padding: 30px;
 }
 </style>
@@ -22,7 +22,7 @@ p {
   
 </p>
   
- <pre style="background-color:Honeydew;">
+ <pre style="background-color:WhiteSmoke;">
    Peter Piper picked a peck of pickled peppers.
     
    If Peter Piper picked a peck of pickled peppers,
