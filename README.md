@@ -21,23 +21,13 @@ p {
   I am a mechanical engineering student dipping my feet into HTML in an attempt to build my own website. I'm excited to see the variety of different setups and paths I can take using HTML.
   
 </p>
-  
- <pre style="background-color:WhiteSmoke;">
-   Peter Piper picked a peck of pickled peppers.
-    
-   If Peter Piper picked a peck of pickled peppers,
-    
-   How many pecks of pickled pepper
-    
-   Did Peter Piper pick?
- </pre>
+
+<pre style="background-color:WhiteSmoke;">
+My <b>favorite</b> song is <a href="https://www.youtube.com/watch?v=j1hft9Wjq9U&ab_channel=THEFIRSTTAKE"> Racing Into the Night by YOASOBI. </a> 
+The angelic vocalist's name is Ikura.
+</pre>
   
 <!-- Testing hyperlinks (text & images) -->
-<p>
-My <b>favorite</b> song is 
-<a href="https://www.youtube.com/watch?v=j1hft9Wjq9U&ab_channel=THEFIRSTTAKE">
-Racing Into the Night by YOASOBI. </a> The angelic vocalist's name is Ikura. <br>
-</p>
 
 <h1 style="text-aligned:center"> <img src="yoasobi.PNG" style="height:450px; width:600px;"> </h1>
 
