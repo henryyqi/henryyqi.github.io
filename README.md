@@ -1,6 +1,16 @@
 
 <html>
 
+<head>
+<style>
+p {
+  border: 5px solid powderblue;
+  padding: 30px;
+}
+</style>
+</head>
+
+<body>
 <!-- a big welcome in the top middle -->
  <h1 style="font-size:500%; text-align:center;">WELCOME</h1>
  <hr>
@@ -24,7 +34,7 @@
  <a href="https://avatar.fandom.com/wiki/Sokka"><img src="sokka.jpg"></a>
 
 <p title="Sokka is the best!">This is a pic of Sokka from Avatar the Last Airbender.</p>
-
+</body>
 
 
 <html>
