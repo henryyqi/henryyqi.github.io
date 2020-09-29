@@ -15,8 +15,12 @@ p {
  <h1 style="font-size:500%; text-align:center;">WELCOME</h1>
  <hr>
   
- <!-- short intro -->
- <p>My name is Henry Qi. <br>This is my website.</p>
+<!-- short intro -->
+<p>
+  My name is Henry Qi. This is my website.<br>
+  I am a mechanical engineering student dipping my feet into HTML in an attempt to build my own website. I'm excited to see the variety of different setups and paths I can take using HTML.
+  
+</p>
   
  <pre>
    Peter Piper picked a peck of pickled peppers.
