@@ -36,8 +36,12 @@ p {
 <p>
 My <b>favorite</b> song is 
 <a href="https://www.youtube.com/watch?v=j1hft9Wjq9U&ab_channel=THEFIRSTTAKE">
-Racing Into the Night by YOASOBI. </a> The angelic vocalist's name is Ikura. <br><br>
-The song tells the story "The Seduction of Thanatos". A girl spends every night wanting to take her life to be with the reaper. But every time she is about to jump, her boyfriend is able to talk her out of it. The girl's love for the reaper devalues her own life, and the boy doesn't know what to do. He loves her dearly but can't live on seeing her so lifeless every day. One night, instead of talking her out of jumping, he stands next to her, holding hands. He couldn't live without her and would rather take his life to be with the girl he loves. She glanced over and him and smiled. The boy finally understood that she was his reaper as they leaped into the night together.
+Racing Into the Night by YOASOBI. </a> The angelic vocalist's name is Ikura. <br>
+  
+<img src="yoasobi.PNG"; style="text-aligned:center">
+  
+<br>
+The song tells the story <b>"The Seduction of Thanatos"</b>. A girl spends every night wanting to take her life to be with the reaper. But every time she is about to jump, her boyfriend is able to talk her out of it. The girl's love for the reaper devalues her own life, and the boy doesn't know what to do. He loves her dearly but can't live on seeing her so lifeless every day. One night, instead of talking her out of jumping, he stands next to her, holding hands. He couldn't live without her and would rather take his life to be with the girl he loves. She glanced over and him and smiled. The boy finally understood that she was his reaper as they leaped into the night together.
 </p>
  
 <hr> 
