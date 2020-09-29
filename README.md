@@ -22,7 +22,7 @@ p {
   
 </p>
   
- <pre>
+ <pre style="background-color:Honeydew;">
    Peter Piper picked a peck of pickled peppers.
     
    If Peter Piper picked a peck of pickled peppers,
